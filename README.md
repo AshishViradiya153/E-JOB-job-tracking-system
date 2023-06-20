@@ -11,3 +11,7 @@
 7. Update job page 
 8. All jobs page(job filter)
 9. Stats page(Charts)
+    
+## UI
+
+![WhatsApp Image 2023-06-20 at 3 11 54 PM](https://github.com/AshishViradiya153/E-JOB-job-tracking-system/assets/116018976/54d2424f-3429-4a02-a164-4e11caf369b6)
